@@ -1,0 +1,8 @@
+{
+  "name": "4G话吧",
+  "version": "1000",
+  "versionShort": "1.0.1",
+  "must": false,
+  "changelog": "1. 优化型号选择",
+  "update_url": "https://www.pgyer.com/irbot"
+}
